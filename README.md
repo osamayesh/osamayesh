@@ -1,7 +1,7 @@
 <h2 align="center">السلام عليكم ورحمة الله وبركاته</h2>
 <h1 align="center">Hi, I'm Osama AYESH  👋</h1>
 
-<h3 align="center">JavaScript | HTML & CSS</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" />
